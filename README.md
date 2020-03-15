@@ -23,4 +23,4 @@ It is a simple Blog Site Project for Beginner to understand laravel basic concep
 - Laravel Pagination
 - Resource Controllers
 - Image Upload, Update, Delete
-- ect
+- etc

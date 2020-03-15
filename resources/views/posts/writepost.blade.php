@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Clean Blog</title>
+    <title>{{ config('app.name') }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{asset('public/myfontend/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
